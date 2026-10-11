@@ -18,7 +18,7 @@
 
 ## 📌 Tentang Proyek
 
-Repositori ini adalah platform portofolio digital personal dan sistem manajemen konten (CMS) yang dirancang dan dikembangkan secara khusus untuk **mendukung dan mengakselerasi perjalanan karier profesional Muhammad Rafli Pradipta** (alumnus Apple Developer Academy dan praktisi Data Analyst / Software Engineer).
+Repositori ini adalah platform portofolio digital personal dan sistem manajemen konten (CMS) yang dirancang dan dikembangkan secara khusus untuk **mendukung dan mengakselerasi perjalanan karier profesional Muhammad Rafli Pradipta**.
 
 Tujuan utama dari proyek ini adalah:
 1. **Representasi Portofolio Berstandar Industri**: Memamerkan karya-karya rekayasa perangkat lunak (*Fullstack Web, iOS/Apple ecosystem, Data Analytics dashboards*) melalui antarmuka interaktif kelas dunia dengan estetika tinggi (*Apple-inspired luxury aesthetic*).
